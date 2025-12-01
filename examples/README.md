@@ -1,6 +1,7 @@
 # Race Condition Examples
 
-This directory contains 9 Verilog examples demonstrating race conditions and their solutions, extracted from the article "Race Conditions: The Root of All Verilog Evil".
+This directory contains 9 Verilog examples demonstrating race conditions and their solutions, extracted from the article \
+“[Race Conditions: The Root of All Verilog Evil](https://stitt-hub.com/race-conditions-the-root-of-all-verilog-evil/).”
 
 ## Examples Overview
 
