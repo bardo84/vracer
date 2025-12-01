@@ -1,12 +1,7 @@
 # VRacer
 
-**Verilog Race Condition Detection Tool**
-
-Static analysis tool for detecting race conditions in Verilog and Verilog-AMS designs.
-
-VRacer analyzes Verilog/Verilog-AMS source files to detect potential race conditions that can cause non-deterministic simulation behavior.  
-
-It follows the static race analysis approach of Ouyang [US7017129B2, expired 2020].
+Static analysis tool for detecting race conditions in Verilog and Verilog-AMS designs. \
+It follows the static race analysis approach of Ouyang [US7017129B2, 2000].
 
 ## Features
 
